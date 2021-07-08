@@ -5,7 +5,6 @@ Developer Web Jr (En proceso), Taekwondista, Profesor de Ed. Fisica.
 
 - Anahí Bailaque:
 
-
 - Melina Tamara Orona:
 25 años, Quilmes, Buenos Aires. 
-estudiante de Programacion Wed y Tec. de Higiene y Seguridad en el Trabajo.
+Estudiante de Programacion Web y Tec. de Higiene y Seguridad en el Trabajo
