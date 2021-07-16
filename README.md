@@ -15,6 +15,8 @@ Estudiante de Desarrollo Web. Mamá y profesora particular de matemáticas.
 25 años, Quilmes, Buenos Aires. 
 Estudiante de Programacion Web y Tec. de Higiene y Seguridad en el Trabajo.
 
+-Daniel Rivera:
+
 ### Referentes del Mercado ###
 - [Adidas](https://www.adidas.com.ar) > La selección de esta página es principalmente por su tipografía, detalles del producto, disposición del carrusel y las fotos <
 - [SoloDeportes](https://www.solodeportes.com.ar/?SID=78slgb90nscmrfqnlg2eotgctl) > De esta pagina, decidimos tomar como referencia los colores que utiliza <
