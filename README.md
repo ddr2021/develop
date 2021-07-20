@@ -27,10 +27,16 @@ Estudiante de Programacion Web y Tec. de Higiene y Seguridad en el Trabajo.
 ### Colores a utilizar ### 
 - Paleta fría 
 
-  1). #F9DFDC:
+  1). #F9DFDC: Header
 
   2). #0A81AB:
 
   3). #0C4271:
 
-  4). #000000:
+  4). #000000: Footer
+
+### Tipografía ###
+- Tipo de letra: Uchen
+
+### Logotipo ### 
+! [Spyro Sport](
