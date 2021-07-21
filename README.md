@@ -15,7 +15,9 @@ Estudiante de Desarrollo Web. Mamá y profesora particular de matemáticas.
 25 años, Quilmes, Buenos Aires. 
 Estudiante de Programacion Web y Tec. de Higiene y Seguridad en el Trabajo.
 
-- Daniel Rivera:
+- Daniel Rivera: 
+41 años, San Miguel, Buenos Aires, La Tierra. Instructor Bíblico particular (Perspectiva considerable acerca de los asuntos humanos y no humanos en este universo. En constante progreso). Estudiante de desarrollo web Full Stack(en proceso). Ex maquetador de paginas web (junior). Maratonista 20k. Levantador de pesas (junior). Jardinero (senior). Productor de plantas (pro). Productor avícola (senior). Constructor de cimientos en edificaciones (hasta 3 plantas) y tareas en general en el rubro de la construcción (avanzado). Electricista particular. Fabircante de indumentaria textil (senior). Inversor en bienes raices. Ex tri-campeón consecutivo... en combate libre (artes marciales), consumado y concluido.
+
 
 ### Referentes del Mercado ###
 - [Adidas](https://www.adidas.com.ar) > La selección de esta página es principalmente por su tipografía, detalles del producto, disposición del carrusel y las fotos <
