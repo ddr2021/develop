@@ -1,23 +1,29 @@
-# Proyecto Integrador "Spyro's Sport" #
+# Proyecto Integrador "Spyro Sport" #
 ## Abstract ##
 Principalmente nuestra página se dedicará a la venta de indumentaria deportiva, contando con un amplio catálogo de categorias a las cuales se podrá acceder. Elegimos principalmente esta idea, debido a que queremos implementar la venta de indumentaria con marca  y logo propias. Por otro lado, nuestra idea surge, luego de tomar ideas de diferentes páginas. Nuestro proyecto está orientado principalmente al público de Jóvenes, Adolescentes y Adultos.
 Nuestra estrategia a utilizar, será principalmente las ofertas de productos discontinuos, ofertas de 2x1, ofertas de hasta el 50% de descuento en indumentaria de temporadas pasadas e incluso ofreceremos bonus de descuentos a la hora de registrarse en nuestra página web.
 
+## ¿Quienes Somos? ##
+Somos un grupo de jóvenes emprendedores, con ganas de realizar nuestro proyecto propio en busca de insertanos en el ambito laboral de la Programación Web. Por lo tanto, hemos decido inicilizar este primer proyecto de la mejor manera posible, con todas las ganas posibles e implementando nuestros conocimientos y herramientas aprendidas hasta el momento. Por su parte, contamos con un equipo técnico distribuido de la siguiente manera:
+
+- Fundador: Sanchez Ernesto
+- Co-Fundador: Melina Orona
+- Gerente de Marketing: Anahi Bailaque
+- Diseñador gráfico: Daniel Rivera
+
 ### Integrantes ###
 - Sanchez Ernesto: 24 años, Lanus, Buenos Aires.
-Developer Web Jr (En proceso), Taekwondista, Profesor de Ed. Fisica.
+Developer Web Jr (En proceso), Taekwondista, Profesor de Ed. Fisica y Fundador de Spyro Sport
+[Instagram](https://www.instagram.com/ernesancheez/)
+[LinkedIn](https://www.linkedin.com/in/ernesto-alejandro-sanchez-b32312211/)
 
-- Anahí Bailaque:
-30 años, Moreno, Buenos Aires.
-Estudiante de Desarrollo Web. Mamá y profesora particular de matemáticas.
+- Anahí Bailaque: 30 años, Moreno, Buenos Aires.
+Estudiante de Desarrollo Web. Mamá, profesora particular de matemática y Gerente de Marketing de Spyro Sport
 
-- Melina Tamara Orona:
-25 años, Quilmes, Buenos Aires. 
-Estudiante de Programacion Web y Tec. de Higiene y Seguridad en el Trabajo.
+- Melina Tamara Orona: 25 años, Quilmes, Buenos Aires. 
+Estudiante de Programacion Web, Tec. de Higiene y Seguridad en el Trabaj y Co-Fundador de Spyro Sport
 
-- Daniel Rivera: 
-41 años, San Miguel, Buenos Aires, La Tierra. Instructor Bíblico particular (Perspectiva considerable acerca de los asuntos humanos y no humanos en este universo. En constante progreso). Estudiante de desarrollo web Full Stack(en proceso). Ex maquetador de paginas web (junior). Maratonista 20k. Levantador de pesas (junior). Jardinero (senior). Productor de plantas (pro). Productor avícola (senior). Constructor de cimientos en edificaciones (hasta 3 plantas) y tareas en general en el rubro de la construcción (avanzado). Electricista particular. Fabricante de indumentaria textil (senior). Inversor en bienes raices. Ex tri-campeón consecutivo... en combate libre (artes marciales), consumado y concluido.
-
+- Daniel Rivera: 41 años, San Miguel, Buenos Aires, La Tierra. Instructor Bíblico particular (Perspectiva considerable acerca de los asuntos humanos y no humanos en este universo. En constante progreso). Estudiante de desarrollo web Full Stack(en proceso). Ex maquetador de paginas web (junior). Maratonista 20k. Levantador de pesas (junior). Jardinero (senior). Productor de plantas (pro). Productor avícola (senior). Constructor de cimientos en edificaciones (hasta 3 plantas) y tareas en general en el rubro de la construcción (avanzado). Electricista particular. Fabricante de indumentaria textil (senior). Diseñador Gráfico en Spyro Sport
 
 ### Referentes del Mercado ###
 - [Adidas](https://www.adidas.com.ar) > La selección de esta página es principalmente por su tipografía, detalles del producto, disposición del carrusel y las fotos <
@@ -42,3 +48,6 @@ Estudiante de Programacion Web y Tec. de Higiene y Seguridad en el Trabajo.
 
 ### Logotipo ### 
 ![Spyro Sport](
+
+### Link de ingreso a tablero de trabajo ###
+-[Trello](https://trello.com/b/q5IuKEYD/proyecto-integrador-c10grupo7) > Aqui contamos con nuestro tablero de trabajo, para la visualizacion de nuestros avances <
