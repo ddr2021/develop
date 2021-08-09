@@ -14,16 +14,22 @@ Somos un grupo de jóvenes emprendedores, con ganas de realizar nuestro proyecto
 ### Integrantes ###
 - Sanchez Ernesto: 24 años, Lanus, Buenos Aires.
 Developer Web Jr (En proceso), Taekwondista, Profesor de Ed. Fisica y Fundador de Spyro Sport
-[Instagram](https://www.instagram.com/ernesancheez/)
-[LinkedIn](https://www.linkedin.com/in/ernesto-alejandro-sanchez-b32312211/)
+    - [Instagram](https://www.instagram.com/ernesancheez/)
+    - [LinkedIn](https://www.linkedin.com/in/ernesto-alejandro-sanchez-b32312211/)
 
 - Anahí Bailaque: 30 años, Moreno, Buenos Aires.
 Estudiante de Desarrollo Web. Mamá, profesora particular de matemática y Gerente de Marketing de Spyro Sport
+    - [Instagram]
+    - [LinkedIn]
 
 - Melina Tamara Orona: 25 años, Quilmes, Buenos Aires. 
 Estudiante de Programacion Web, Tec. de Higiene y Seguridad en el Trabaj y Co-Fundador de Spyro Sport
+    - [Instagram]
+    - [LinkedIn]
 
 - Daniel Rivera: 41 años, San Miguel, Buenos Aires, La Tierra. Instructor Bíblico particular (Perspectiva considerable acerca de los asuntos humanos y no humanos en este universo. En constante progreso). Estudiante de desarrollo web Full Stack(en proceso). Ex maquetador de paginas web (junior). Maratonista 20k. Levantador de pesas (junior). Jardinero (senior). Productor de plantas (pro). Productor avícola (senior). Constructor de cimientos en edificaciones (hasta 3 plantas) y tareas en general en el rubro de la construcción (avanzado). Electricista particular. Fabricante de indumentaria textil (senior). Diseñador Gráfico en Spyro Sport
+    - [Instagram]
+    - [LinkedIn]
 
 ### Referentes del Mercado ###
 - [Adidas](https://www.adidas.com.ar) > La selección de esta página es principalmente por su tipografía, detalles del producto, disposición del carrusel y las fotos <
@@ -50,4 +56,4 @@ Estudiante de Programacion Web, Tec. de Higiene y Seguridad en el Trabaj y Co-Fu
 ![Spyro Sport](
 
 ### Link de ingreso a tablero de trabajo ###
--[Trello](https://trello.com/b/q5IuKEYD/proyecto-integrador-c10grupo7) > Aqui contamos con nuestro tablero de trabajo, para la visualizacion de nuestros avances <
+- [Trello](https://trello.com/b/q5IuKEYD/proyecto-integrador-c10grupo7) > Aqui contamos con nuestro tablero de trabajo, para la visualizacion de nuestros avances <
