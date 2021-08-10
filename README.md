@@ -41,13 +41,11 @@ Estudiante de Programacion Web, Tec. de Higiene y Seguridad en el Trabaj y Co-Fu
 ### Colores a utilizar ### 
 - Paleta fría 
 
-  1). #F9DFDC: Header
+  1). #0C4271: Header
 
-  2). #0A81AB:
+  2). #F9DFDC: Body
 
-  3). #0C4271:
-
-  4). #000000: Footer
+  3). #000000: Footer
 
 ### Tipografía ###
 - Tipo de letra: Uchen
