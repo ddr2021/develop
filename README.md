@@ -1,3 +1,4 @@
+
 # Proyecto Integrador "Spyro Sport" #
 ## Abstract ##
 Principalmente nuestra página se dedicará a la venta de indumentaria deportiva, contando con un amplio catálogo de categorias a las cuales se podrá acceder. Elegimos principalmente esta idea, debido a que queremos implementar la venta de indumentaria con marca  y logo propias. Por otro lado, nuestra idea surge, luego de tomar ideas de diferentes páginas. Nuestro proyecto está orientado principalmente al público de Jóvenes, Adolescentes y Adultos.
@@ -51,7 +52,8 @@ Estudiante de Programacion Web, Tec. de Higiene y Seguridad en el Trabaj y Co-Fu
 - Tipo de letra: Uchen
 
 ### Logotipo ### 
-![Spyro Sport](
+![lion-logo](https://user-images.githubusercontent.com/85361868/129215316-e4efaa90-29ca-457f-a475-2382b68aa547.png)
+
 
 ### Link de ingreso a tablero de trabajo ###
 - [Trello](https://trello.com/b/q5IuKEYD/proyecto-integrador-c10grupo7) > Aqui contamos con nuestro tablero de trabajo, para la visualizacion de nuestros avances <
