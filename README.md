@@ -5,7 +5,7 @@ Principalmente nuestra página se dedicará a la venta de indumentaria deportiva
 Nuestra estrategia a utilizar, será principalmente las ofertas de productos discontinuos, ofertas de 2x1, ofertas de hasta el 50% de descuento en indumentaria de temporadas pasadas e incluso ofreceremos bonus de descuentos a la hora de registrarse en nuestra página web.
 
 ## ¿Quienes Somos? ##
-Somos un grupo de jóvenes emprendedores, con ganas de realizar nuestro proyecto propio en busca de insertanos en el ambito laboral de la Programación Web. Por lo tanto, hemos decido inicilizar este primer proyecto de la mejor manera posible, con todas las ganas posibles e implementando nuestros conocimientos y herramientas aprendidas hasta el momento. Por su parte, contamos con un equipo técnico distribuido de la siguiente manera:
+Somos un grupo de jóvenes emprendedores, con ganas de realizar nuestro proyecto propio en busca de insertanos en el ambito laboral de la Programación Web. Por lo tanto, hemos decido inicializar este primer proyecto de la mejor manera posible, con todas las ganas posibles e implementando nuestros conocimientos y herramientas aprendidas hasta el momento. Por su parte, contamos con un equipo técnico distribuido de la siguiente manera:
 
 - Fundador: Sanchez Ernesto
 - Co-Fundador: Melina Orona
