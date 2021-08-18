@@ -66,7 +66,7 @@ header p, a {
     color: white;
 }
 
-
+/* Tablet */
 @media (min-width: 720px){
     header nav div.menu{
         font-size: 30px;
@@ -79,6 +79,7 @@ header p, a {
     }
 }
 
+/* Desktop */
 @media (min-width: 1024px){
 
     header nav{

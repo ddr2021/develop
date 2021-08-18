@@ -1,5 +1,18 @@
+/* 
+1). #0C4271: Header
+
+2). #F9DFDC: Body
+
+3). #000000: Footer 
+*/
+
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
     margin: 0;
     padding: 0;
 }
@@ -11,4 +24,8 @@ li {
 
 a {
     text-decoration: none;
+}
+
+i {
+    padding: 5px;
 }
