@@ -1,22 +1,20 @@
-/* _GENERAL */
-/* Paleta fría
+body.register header {
+    background-color: black;
+    height: 119px;
+}
 
-1). #0C4271: Header
+body.register header div.logo {
+    width: 120px;
+}
 
-2). #F9DFDC: Body
+body.register header div.logo img {
+    width: 100%;
+}
 
-3). #000000: Footer
-
-Tipografía
-Tipo de letra: Uchen
- */
 
 /* _GENERAL-REGISTER */
-
-/* _GENERAL-REGISTER A */
 body.register a {
     text-decoration: underline;
-    color: lightslategray;
 }
 
 /* _BODY-REGISTER */
@@ -30,21 +28,9 @@ body.register {
     border: solid 1px;
 }
 
-/*_HEADER */
-body.register header {
-    height: 119px;
-}
-
-body.register header div.logo {
-    width: 129px;
-}
-
-body.register header div.logo img {
-    width: 100%;
-}
-
 /* _MAIN */
 body.register main {
+    background-color: bisque;
     height: 100%;
 }
 
@@ -54,9 +40,9 @@ body.register div.container {
     margin: auto;
 }
 
-/* ___________________________________________________________REGISTER-REGISTER */
+/* ___________________________________________________________AUNTENTIC-REGISTER */
 body.register main div.register-register {
-    height: 127px;
+    height: 136px;
     padding-top: 19px;
     text-align: center;
 }
@@ -86,31 +72,26 @@ body.register main div.register-register h3.autentication {
 
 /* _______________________________________________________REGISTER */
 
-/* _REQUIRED-SHOW*/
+/* _REQUIRED SHOW*/
 body.register main div.register form.register div.inputs div.show,
-body.register main div.register form.register div.inputs span.required {
+body.register main div.register form.register span.required {
     text-align: right;
     color: lightslategray;
-    font-size: 14px;
-    margin-bottom: 11px;
+    font-size: 12px;
 }
-
-body.register main div.register form.register div.inputs div.show label {
-    font-size: 14px;
-}
-
 
 /* _INPUTS */
 body.register main div.register form.register div.inputs {
     display: flex;
     flex-direction: column;
+    height: 187px;
     justify-content: space-between;
     width: 101%;
 }
 
 body.register main div.register form.register div.inputs div.email input {
     width: 100%;
-    margin: 39px 0 12px;
+    margin: 25px 0 1px;
 }
 
 body.register main div.register form.register div.inputs div.name-surname input,
@@ -120,13 +101,13 @@ body.register main div.register form.register div.inputs div.psw input {
 
 /* _PSW REQUIRED */
 body.register main div.register form.register p.psw-required {
-    font-size: 14px;
+    font-size: 12px;
     color: lightslategray;
-    margin: 5px 0 0 3px;
+    margin-top: 5px;
 }
 
 body.register main div.register form.register div.inputs input {
-    padding: 7px 9px;
+    padding: 6px 9px;
 }
 
 /* _BORN TITLE */
@@ -184,17 +165,17 @@ body.register main div.register form.register div.news-terms p label {
     margin-top: -19px;
 }
 
-/* _REGISTER */
+/* _CREAR CUENTA */
 body.register main div.register form.register button {
     margin: auto;
     text-transform: uppercase;
-    background-color: #000;
+    background: linear-gradient(180deg, #016080, transparent);
     color: #fff;
-    width: 100%;
-    padding: 10px;
-    font-size: 17px;
+    width: 93%;
+    padding: 8px 0;
+    font-size: 13px;
     display: block;
-    border-radius: 5px;
+    border-radius: 17px;
     margin-top: 7px;
     font-weight: bold;
 }
@@ -258,13 +239,12 @@ body.register main div.runer img {
 }
 
 /* _SUBE */
-body.register div.sube a {
+body.register div.sube a{
     color: #fff;
     font-weight: bold;
     display: block;
 
 }
-
 body.register div.sube {
     background-color: #000;
     color: #fff;

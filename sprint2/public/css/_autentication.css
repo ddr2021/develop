@@ -1,20 +1,12 @@
-﻿/* _GENERAL */
-/* Paleta fría
-
-1). #0C4271: Header
-
-2). #F9DFDC: Body
-
-3). #000000: Footer
-
-Tipografía
-Tipo de letra: Uchen
- */
-
-/* _GENERAL-AUTENTIC */
+﻿/* _GENERAL-AUTENTIC */
+body.autentic a {
+    text-decoration: underline;
+    color: lightslategray;
+}
 
 /* _BODY-AUTENTIC */
 body.autentic {
+    font-family: sans-serif;
     background-size: 100%;
     max-width: 480px;
     margin: auto;
@@ -23,14 +15,9 @@ body.autentic {
     border: solid 1px;
 }
 
-/*_BODY A*/
-body.autentic a {
-    text-decoration: underline;
-    color: lightslategray;
-}
-
-/* _HEADER */
+/* HEADER */
 body.autentic header {
+    background-color: black;
     height: 119px;
 }
 
@@ -44,8 +31,9 @@ body.autentic header div.logo img {
 
 /* _MAIN */
 body.autentic main {
-    height: 100%;
     background-color: #BADDF9;
+    height: 100%;
+
 }
 
 /* _CONTAINER */
@@ -56,7 +44,7 @@ body.autentic div.container {
 
 /* ___________________________________________________________AUNTENTIC-REGISTER */
 body.autentic main div.autentic-register {
-    height: 127px;
+    height: 136px;
     padding-top: 19px;
     text-align: center;
 }
@@ -86,14 +74,8 @@ body.autentic main div.autentic-register h3.register {
 /* _______________________________________________________AUTENTICATION */
 
 /* _REQUIRED SHOW*/
-body.autentic main div.autentication form.autentic div.inputs div.show label,
+body.autentic main div.autentication form.autentic div.inputs div.show,
 body.autentic main div.autentication form.autentic span.required {
-    text-align: right;
-    font-size: 14px;
-    color: lightslategray;
-}
-
-body.autentic main div.autentication form.autentic div.inputs div.show {
     text-align: right;
 }
 
@@ -101,12 +83,12 @@ body.autentic main div.autentication form.autentic div.inputs div.show {
 body.autentic main div.autentication form.autentic div.inputs {
     display: flex;
     flex-direction: column;
-    height: 137px;
+    height: 122px;
     justify-content: space-between;
 }
 
 body.autentic main div.autentication form.autentic div.inputs input {
-    padding: 7px 9px;
+    padding: 6px 9px;
 }
 
 
@@ -119,41 +101,19 @@ body.autentic main div.autentication form.autentic div.remember-forgot {
 }
 
 /* _ENTRALE */
-/* body.autentic main div.autentication form.autentic button {
-    margin: auto;
-    text-transform: uppercase;
-    background-color: #000;
-    color: #fff;
-    width: 100%;
-    padding: 10px;
-    font-size: 17px;
-    display: block;
-    border-radius: 5px;
-    margin-top: 37px;
-    font-weight: bold;
-}
- */
 body.autentic main div.autentication form.autentic button {
     margin: auto;
     text-transform: uppercase;
-    background-color: #000;
+    background: linear-gradient(180deg, #016080, transparent);
     color: #fff;
-    width: 100%;
-    padding: 10px;
-    font-size: 17px;
+    width: 93%;
+    padding: 8px 0;
+    font-size: 13px;
+    margin-top: 30px;
     display: block;
-    border-radius: 5px;
-    margin-top: 37px;
-    font-weight: bold;
+    border-radius: 17px;
 }
-/* 
-color: white;
-padding: 12px;
-background-color: black;
-display: block;
-position: relative;
-border-radius: 5px;
- */
+
 body.autentic main span.o {
     text-align: center;
     margin: 14px 0;
@@ -205,12 +165,13 @@ body.autentic main article.benefits h2 {
 
 
 
-/* _RUNER2 */
-body.autentic main div.runer2 {
+
+/* _RUNER */
+body.autentic main div.runer {
     width: 90%;
 }
 
-body.autentic main div.runer2 img {
+body.autentic main div.runer img {
     width: 100%;
     margin: 17px 0 0 10px;
 }
