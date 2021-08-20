@@ -1,0 +1,241 @@
+﻿/* _GENERAL */
+/* Paleta fría
+
+1). #0C4271: Header
+
+2). #F9DFDC: Body
+
+3). #000000: Footer
+
+Tipografía
+Tipo de letra: Uchen
+ */
+
+/* _GENERAL-AUTENTIC */
+
+/* _BODY-AUTENTIC */
+body.autentic {
+    background-size: 100%;
+    max-width: 480px;
+    margin: auto;
+    background-image: url('NO/images/img-autentic-register/autentic-wireframe.jpg');
+    background-repeat: no-repeat;
+    border: solid 1px;
+}
+
+/*_BODY A*/
+body.autentic a {
+    text-decoration: underline;
+    color: lightslategray;
+}
+
+/* _HEADER */
+body.autentic header {
+    height: 119px;
+}
+
+body.autentic header div.logo {
+    width: 120px;
+}
+
+body.autentic header div.logo img {
+    width: 100%;
+}
+
+/* _MAIN */
+body.autentic main {
+    height: 100%;
+    background-color: #BADDF9;
+}
+
+/* _CONTAINER */
+body.autentic div.container {
+    width: 90%;
+    margin: auto;
+}
+
+/* ___________________________________________________________AUNTENTIC-REGISTER */
+body.autentic main div.autentic-register {
+    height: 127px;
+    padding-top: 19px;
+    text-align: center;
+}
+
+/* _INICIA SESION H1 */
+body.autentic main div.autentic-register h1 {
+    margin: auto;
+    text-transform: uppercase;
+    font-size: 22px;
+    background-color: #000;
+    color: #fff;
+    padding: 7px 0;
+    width: 93%;
+    border-radius: 7px;
+}
+
+/* _NO-CUENTA H3 */
+body.autentic main div.autentic-register h3.no-cuenta {
+    margin-top: 12px;
+}
+
+/* _REGISTER YOU H3 */
+body.autentic main div.autentic-register h3.register {
+    margin-top: 7px;
+}
+
+/* _______________________________________________________AUTENTICATION */
+
+/* _REQUIRED SHOW*/
+body.autentic main div.autentication form.autentic div.inputs div.show label,
+body.autentic main div.autentication form.autentic span.required {
+    text-align: right;
+    font-size: 14px;
+    color: lightslategray;
+}
+
+body.autentic main div.autentication form.autentic div.inputs div.show {
+    text-align: right;
+}
+
+/* _INPUTS */
+body.autentic main div.autentication form.autentic div.inputs {
+    display: flex;
+    flex-direction: column;
+    height: 137px;
+    justify-content: space-between;
+}
+
+body.autentic main div.autentication form.autentic div.inputs input {
+    padding: 7px 9px;
+}
+
+
+/* _REMEMBTER-FORGOT */
+body.autentic main div.autentication form.autentic div.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    height: 41px;
+    padding-top: 21px;
+}
+
+/* _ENTRALE */
+/* body.autentic main div.autentication form.autentic button {
+    margin: auto;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    font-size: 17px;
+    display: block;
+    border-radius: 5px;
+    margin-top: 37px;
+    font-weight: bold;
+}
+ */
+body.autentic main div.autentication form.autentic button {
+    margin: auto;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    font-size: 17px;
+    display: block;
+    border-radius: 5px;
+    margin-top: 37px;
+    font-weight: bold;
+}
+/* 
+color: white;
+padding: 12px;
+background-color: black;
+display: block;
+position: relative;
+border-radius: 5px;
+ */
+body.autentic main span.o {
+    text-align: center;
+    margin: 14px 0;
+    display: inherit;
+}
+
+/* ___________________________________________________________________AUTENTIC-APIS */
+
+body.autentic main div.autentic-apis {
+    display: flex;
+    align-items: center;
+}
+
+/* _APIS AUTENTIC */
+body.autentic main div.autentic-apis div.apis {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 110px;
+    width: 100%;
+    text-transform: uppercase;
+}
+
+/* _RUNER */
+body.autentic main div.autentic-apis div.runer {
+    width: 100%;
+}
+
+body.autentic main div.autentic-apis div.runer img {
+    width: 100%;
+    margin: 17px 0 0 10px;
+}
+
+/* _HR */
+body.autentic main hr {
+    margin: 40px 0 31px;
+}
+
+/* _BENEFITS     */
+body.autentic main article.benefits {
+    height: 250px;
+    text-align: center;
+}
+
+body.autentic main article.benefits h2 {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+
+
+/* _RUNER2 */
+body.autentic main div.runer2 {
+    width: 90%;
+}
+
+body.autentic main div.runer2 img {
+    width: 100%;
+    margin: 17px 0 0 10px;
+}
+
+/* _SUBE */
+body.autentic div.sube a {
+    color: #fff;
+    font-weight: bold;
+    display: block;
+
+}
+
+body.autentic div.sube {
+    background-color: #000;
+    color: #fff;
+    border: solid 1px;
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+
+
+body.autentic footer {
+    background-color: #000;
+    height: 100px;
+}
