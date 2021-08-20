@@ -1,0 +1,283 @@
+﻿/* _GENERAL */
+/* Paleta fría
+
+1). #0C4271: Header
+
+2). #F9DFDC: Body
+
+3). #000000: Footer
+
+Tipografía
+Tipo de letra: Uchen
+ */
+
+/* _GENERAL-REGISTER */
+
+/* _GENERAL-REGISTER A */
+body.register a {
+    text-decoration: underline;
+    color: lightslategray;
+}
+
+/* _BODY-REGISTER */
+body.register {
+    font-family: sans-serif;
+    background-image: url('NO../images/img-autentic-register/register-wireframe.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    max-width: 480px;
+    margin: auto;
+    border: solid 1px;
+}
+
+/*_HEADER */
+body.register header {
+    height: 119px;
+}
+
+body.register header div.logo {
+    width: 120px;
+}
+
+body.register header div.logo img {
+    width: 100%;
+}
+
+/* _MAIN */
+body.register main {
+    height: 100%;
+}
+
+/* _CONTAINER */
+body.register div.container {
+    width: 90%;
+    margin: auto;
+}
+
+/* ___________________________________________________________REGISTER-REGISTER */
+body.register main div.register-register {
+    height: 125px;
+    padding-top: 19px;
+    text-align: center;
+}
+
+/* CREA TU CUENTA H1 */
+body.register main div.register-register h1 {
+    margin: auto;
+    text-transform: uppercase;
+    font-size: 22px;
+    color: #000f;
+    padding: 7px 0;
+    width: 93%;
+    border-radius: 7px;
+    border: solid 1px;
+    background-color: #fff;
+}
+
+/* _SI-CUENTA H3 */
+body.register main div.register-register h3.si-cuenta {
+    margin-top: 12px;
+}
+
+/* AUTENTICATE YOU H3 */
+body.register main div.register-register h3.autentication {
+    margin-top: 7px;
+}
+
+/* _______________________________________________________REGISTER */
+
+/* _REQUIRED-SHOW*/
+body.register main div.register form.register div.inputs div.show,
+body.register main div.register form.register div.inputs span.required {
+    text-align: right;
+    color: lightslategray;
+    font-size: 14px;
+    margin-bottom: 11px;
+}
+
+body.register main div.register form.register div.inputs div.show label {
+    font-size: 14px;
+}
+
+
+/* _INPUTS */
+body.register main div.register form.register div.inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 101%;
+}
+
+body.register main div.register form.register div.inputs div.email input {
+    width: 100%;
+    margin: 39px 0 12px;
+}
+
+body.register main div.register form.register div.inputs div.name-surname input,
+body.register main div.register form.register div.inputs div.psw input {
+    width: 49%;
+}
+
+/* _PSW REQUIRED */
+body.register main div.register form.register p.psw-required {
+    font-size: 14px;
+    color: lightslategray;
+    margin: 5px 0 0 3px;
+}
+
+body.register main div.register form.register div.inputs input {
+    padding: 7px 9px;
+}
+
+/* _BORN TITLE */
+body.register main div.register form.register h3.born {
+    margin-top: 25px;
+    text-align: center;
+}
+
+/* _BORN */
+body.register main div.register form.register div.born {
+    display: flex;
+    justify-content: space-around;
+    margin: 27px 0 17px;
+}
+
+body.register main div.register form.register div.born input {
+    width: 70px;
+    text-align: center;
+    padding: 6px 9px;
+
+}
+
+/* _GENERO TITLE */
+body.register main div.register form.register h3.sex {
+    margin-top: 25px;
+    text-align: center;
+}
+
+/* _NEW TERMS TITLE */
+body.register main div.register form.register h3.news-terms {
+    text-align: center;
+    margin-top: 33px;
+}
+
+body.register main div.register form.register div.sex-inputs {
+    display: flex;
+    justify-content: space-around;
+    height: 40px;
+    align-items: flex-end;
+}
+
+/* _NEWS TERMS */
+body.register main div.register form.register div.news-terms {
+    height: 185px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+body.register main div.register form.register div.news-terms p label {
+    display: inline-block;
+    margin-left: 34px;
+    margin-top: -19px;
+}
+
+/* _REGISTER */
+body.register main div.register form.register button {
+    margin: auto;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    font-size: 17px;
+    display: block;
+    border-radius: 5px;
+    margin-top: 7px;
+    font-weight: bold;
+}
+
+body.register main span.o {
+    text-align: center;
+    margin: 14px 0;
+    display: inherit;
+}
+
+/* ___________________________________________________________________REGISTER-APIS */
+
+body.register main div.register-apis {
+    display: flex;
+    align-items: center;
+}
+
+/* _APIS REGISTER */
+body.register main div.register-apis div.apis {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 110px;
+    width: 100%;
+    text-transform: uppercase;
+}
+
+/* _RUNER */
+body.register main div.register-apis div.runer {
+    width: 100%;
+}
+
+body.register main div.register-apis div.runer img {
+    width: 100%;
+    margin: -7px 0 0;
+}
+
+hr {
+    margin: 40px 0;
+}
+
+/* _BENEFITS     */
+body.register main article.benefits {
+    height: 250px;
+    text-align: center;
+}
+
+body.register main article.benefits h2 {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+/* _RUNER */
+body.register main div.runer {
+    width: 100%;
+}
+
+body.register main div.runer img {
+    width: 100%;
+    margin: 17px 0 0 10px;
+}
+
+/* _SUBE */
+body.register div.sube a {
+    color: #fff;
+    font-weight: bold;
+    display: block;
+
+}
+
+body.register div.sube {
+    background-color: #000;
+    color: #fff;
+    border: solid 1px;
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+
+
+body.register footer {
+    background-color: #000;
+    height: 100px;
+}
